@@ -1,11 +1,7 @@
 {
   "features": {
 
-    "auth": {
-      "enablecaseinsensitivity": true,
-      "useinclusiveterminology": true,
-      "breakcirculardependency": true
-    },
+
     "codegen": {
       "useappsyncmodelgenplugin": true,
       "usedocsgeneratorplugin": true,
